@@ -1,0 +1,4 @@
+#Thu Apr 12 10:03:17 MSK 2018
+base.0=/home/and/proj/react-native/qazwsx/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
